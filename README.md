@@ -1,25 +1,25 @@
-# 📊 TechHub Retail – Business Intelligence Dashboard
+# 📊 TechHub Retail – Business Intelligence Dashboard (Tableau)
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project analyzes sales, customer behavior, and product performance for TechHub Retail using Business Intelligence concepts.
+This project presents an interactive Business Intelligence dashboard built using Tableau to analyze sales performance, customer behavior, and supplier profitability for TechHub Retail.
 
-The goal is to identify revenue drivers, understand customer segments, and support strategic business decisions.
+The dashboard helps identify key business drivers and supports data-driven decision-making.
 
 ---
 
 ## 🎯 Business Objectives
 
 * Identify top-performing product categories
-* Analyze customer purchasing behavior
+* Analyze customer behavior and spending patterns
 * Detect seasonal sales trends
-* Evaluate supplier and product profitability
+* Evaluate supplier profitability
 
 ---
 
 ## 📁 Dataset
 
-The project uses multiple datasets:
+The project uses three datasets:
 
 * Sales data (orders, revenue, delivery status)
 * Customer data (demographics, loyalty tier)
@@ -29,51 +29,52 @@ The project uses multiple datasets:
 
 ## 🧹 Data Preparation
 
-* Cleaned inconsistent values (categories, regions, etc.)
+* Cleaned inconsistent values (regions, categories, supplier IDs)
 * Handled missing data
 * Removed duplicates
-* Ensured correct data types
+* Integrated datasets using relationships
 
 ---
 
-## 📊 Dashboard Insights
-
-* Electronics category generates the highest revenue and profit
-* Loyal customers have higher average order value
-* Sales peak during Q4 (holiday season)
-* Some suppliers generate high sales but lower profit margins
-
----
-
-## 📸 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
 ---
 
-## 💡 Key Recommendations
+## 📈 Key Insights
 
-* Focus on high-performing product categories (e.g., electronics)
-* Strengthen relationships with top suppliers
-* Invest in high-value customer acquisition channels
-* Prepare inventory and marketing for peak seasons
+* Electronics category generates highest revenue and profit
+* Loyal customers have higher average order value
+* Sales peak during Q4 (holiday season)
+* Some suppliers generate high sales but low profit margins
+
+---
+
+## 💡 Recommendations
+
+* Focus on high-performing product categories
+* Strengthen partnerships with profitable suppliers
+* Invest in high-value customer segments
+* Plan inventory and marketing for peak seasons
 
 ---
 
 ## 🛠 Tools Used
 
-* Tableau (Business Intelligence Dashboard)
+* Tableau (Dashboard & Visualization)
 * Data Analysis
-* Data Visualization
+* Business Intelligence
 
 ---
 
 ## 📄 Project Report
 
-Detailed analysis and methodology are included in the project report (PDF).
+Detailed analysis is included in the project report (PDF).
 
 ---
 
 ## 🚀 Conclusion
 
-This project demonstrates how business intelligence tools and data analysis can provide actionable insights to improve sales performance, customer targeting, and operational efficiency.
+This project demonstrates how Business Intelligence dashboards can transform raw data into actionable insights for strategic decision-making.
+
